@@ -1,0 +1,64 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos generados por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Configuración de usuario
+UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Archivos generados por paquetes y herramientas
+*.apk
+*.aab
+*.unitypackage
+
+# Visual Studio Code
+.vscode/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Autogenerados por Unity
+Generated~/
+
+# Archivos de cache
+*.bak
+*.backup
+*.orig
+*.rej
+
+# Builds para WebGL o cualquier otro destino
+Builds/
+
+# Archivos de colisiones o bloqueo
+*.lock
+
+# Otros
+sysinfo.txt
+
+# Si usas Collaborate
+.collabignore
+.Collab/
